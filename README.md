@@ -1,5 +1,24 @@
 # 2026 Taipei Wego Private Senior High School Grade 11 Self-Directed Learning Outcome Exhibition
 
+---
+
+## Status of this Repository
+
+This repository has been archived and is **no longer under active development or maintenance**.
+
+After evaluating the future of the project, we reached the decision 5 months after the event, due to unreciprocated 
+requirements from the school and the exhibition committee ever since the commencement of the project. 
+
+While the project met its short-term goal, providing a platform for displaying the student research and projects 
+displayed in the exhibition, we were not able to realise the vision of it becoming a comprehensive, autonomous platform 
+for students to freely submit and showcase their works. 
+
+Still, we hope that the existing codebase can serve as a valuable foundation for future students in their personal or 
+institutional projects. We encourage those interested to continue this work. You are welcome to fork, modify and build 
+upon this repository in accordance with the terms of the **AGPL 3.0** license.
+
+---
+
 Languages: English, [繁體中文](README_zh.md)
 
 This repository contains the source files for the website of 2026 Taipei Wego Private Senior High School Grade 11
